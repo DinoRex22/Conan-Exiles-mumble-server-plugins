@@ -22,7 +22,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 #define PORT 1234
 #define TIME_WINDOW 10
 #define ZONES_FILE "zones.txt"
-#define MAX_ALLOWED_IPS 10
+#define MAX_ALLOWED_IPS 1000
 
 time_t lastConnectionDisplayTime = 0;
 static int connectionCount = 0;  // Global connection counter
