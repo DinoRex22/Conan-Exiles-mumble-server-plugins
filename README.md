@@ -1,5 +1,4 @@
 # Conan-Exiles-mumble-server-plugins
-Conan Exiles mumble server plugins
 
 # I invite you to carefully read the [LICENSE](LICENSE) before any use.
 
