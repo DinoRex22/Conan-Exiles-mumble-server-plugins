@@ -19,7 +19,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 #pragma comment(lib, "Ws2_32.lib")
 
-#define PORT Private
+#define PORT 1234
 #define TIME_WINDOW 10
 #define ZONES_FILE "zones.txt"
 #define MAX_ALLOWED_IPS 10
